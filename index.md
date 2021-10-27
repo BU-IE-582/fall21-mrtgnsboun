@@ -1,5 +1,3 @@
-# MERT GUNES 2021702093
-## WELCOME TO MY GITHUB PAGE
+## WELCOME TO MY IE 582 GITHUB PAGE
 
-[HERE](ödev.txt) is my first homework.
-deneme
+[HERE]() is my first homework
