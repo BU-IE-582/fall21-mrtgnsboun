@@ -6,4 +6,4 @@
 
 [HERE](IE 582 Homework 1.ipynb) is my ipynb file for first homework
 
-[HERE](IE 582 Homework 1.html) is my ipynb file for first homework
+[HERE](IE 582 Homework 1.html) is my html file for first homework
