@@ -8,8 +8,8 @@
 
 [HERE](IE 582 Homework 1.html) is my html file for first homework
 
-[HERE](IE582_Fall21_Homework2.pdf) is my tasks for first homework
+[HERE](IE582_Fall21_Homework2_3.pdf) is my tasks for second homework
 
-[HERE](IE 582 Homework 2.ipynb) is my ipynb file for first homework
+[HERE](IE 582 Homework 2.ipynb) is my ipynb file for second homework
 
-[HERE](IE 582 Homework 2.html) is my html file for first homework
+[HERE](IE 582 Homework 2.html) is my html file for second homework
