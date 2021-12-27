@@ -19,3 +19,9 @@
 [HERE](Homework 3 2021702093 IE 582.ipynb) is my ipynb file for third homework
 
 [HERE](Homework 3 2021702093 IE 582.html) is my html file for third homework
+
+[HERE](IE582_Fall21_Homework4.pdf) is my tasks for fourth homework
+
+[HERE](Homework4_IE582.ipynb) is my ipynb file for fourth homework
+
+[HERE](Homework4_IE_582.html) is my html file for fourth homework
