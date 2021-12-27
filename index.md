@@ -24,4 +24,4 @@
 
 [HERE](Homework4_IE582.ipynb) is my ipynb file for fourth homework
 
-[HERE](Homework4_IE_582.html) is my html file for fourth homework
+[HERE](Homework4_IE582.html) is my html file for fourth homework
